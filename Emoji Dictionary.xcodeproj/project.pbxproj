@@ -99,8 +99,8 @@
 				69EF2057225FAF1C006DF9E3 /* Main.storyboard */,
 				69EF205A225FAF22006DF9E3 /* Assets.xcassets */,
 				69EF205C225FAF22006DF9E3 /* LaunchScreen.storyboard */,
-				69EF205F225FAF22006DF9E3 /* Info.plist */,
 				69938DA8225FC56200043187 /* TableViewCellConfigurator.swift */,
+				69EF205F225FAF22006DF9E3 /* Info.plist */,
 			);
 			path = "Emoji Dictionary";
 			sourceTree = "<group>";
